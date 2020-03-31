@@ -1,0 +1,15 @@
+Hello,
+
+
+To try this on your machine create a python virtual environment, activate it and install selenium.
+
+$pip install selenium
+
+then install chromedriver from the link -->
+
+https://chromedriver.chromium.org/
+
+and put it in your Scripts directory (for windows)
+C:\Users\BBBot\venv\Scripts
+
+Now run main.py file !
